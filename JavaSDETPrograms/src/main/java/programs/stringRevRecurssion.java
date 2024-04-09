@@ -6,7 +6,6 @@ public class stringRevRecurssion {
     static int len=word.length();
 
     public static void main(String[] args) {
-
         revRecursion();
         if(temp.equalsIgnoreCase(rev)){
             System.out.println(temp+" is a palindrome");
